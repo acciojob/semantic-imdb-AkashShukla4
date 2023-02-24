@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+aside{
+	display:block;
+	position: relative;
+	offset:right 0px;
+}
